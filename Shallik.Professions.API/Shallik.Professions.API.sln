@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shallik.Professions.API", "Shallik.Professions.API.csproj", "{E845C1ED-616A-483B-90D7-42411A1670B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shallik.Professions.Business", "..\Shallik.Professions.Business\Shallik.Professions.Business.csproj", "{33178DEF-8F27-40DE-BD31-8EEE38759BB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shallik.Professions.Data", "..\Shallik.Professions.Data\Shallik.Professions.Data.csproj", "{8CEFD84D-62E1-454C-B4DA-9258A49835B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{E845C1ED-616A-483B-90D7-42411A1670B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E845C1ED-616A-483B-90D7-42411A1670B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E845C1ED-616A-483B-90D7-42411A1670B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33178DEF-8F27-40DE-BD31-8EEE38759BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33178DEF-8F27-40DE-BD31-8EEE38759BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33178DEF-8F27-40DE-BD31-8EEE38759BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33178DEF-8F27-40DE-BD31-8EEE38759BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CEFD84D-62E1-454C-B4DA-9258A49835B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CEFD84D-62E1-454C-B4DA-9258A49835B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CEFD84D-62E1-454C-B4DA-9258A49835B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CEFD84D-62E1-454C-B4DA-9258A49835B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
