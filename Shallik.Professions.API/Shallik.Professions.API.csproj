@@ -9,10 +9,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\Shallik.Professions.Business\Shallik.Professions.Business.csproj" />
     <ProjectReference Include="..\Shallik.Professions.Data\Shallik.Professions.Data.csproj" />
   </ItemGroup>

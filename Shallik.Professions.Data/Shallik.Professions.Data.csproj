@@ -5,9 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Models\" />
-    <Folder Include="DataProviders\" />
-    <Folder Include="Repositories\" />
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.36" />
   </ItemGroup>
 
 </Project>
